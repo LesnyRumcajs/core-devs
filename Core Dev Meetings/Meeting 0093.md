@@ -1,5 +1,3 @@
-Here are the meeting minutes drafted from the Core Devs 93 transcript.
-
 # Filecoin Core Devs 93 — Meeting Minutes
 
 **Meeting:** Core Devs 93
