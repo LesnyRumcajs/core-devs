@@ -209,5 +209,4 @@ Several items have been deferred from NV29. Outstanding FIP-related work and pro
 | Confirm the NV29 Mainnet date after reviewing Golden Week constraints                               | NV29 coordination team              | Pending     |
 | Review deferred proposals and FIP debt for NV30                                                     | Governance and core developer teams | Future      |
 
-Tell me if you’d like this condensed into an action-only tracker.
 
