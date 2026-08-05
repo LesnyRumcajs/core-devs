@@ -4,8 +4,7 @@ Here are the meeting minutes drafted from the Core Devs 93 transcript.
 
 **Meeting:** Core Devs 93
 **Facilitator:** Christian Taylor
-**Participants heard in discussion:** Christian Taylor, Michael Madoff, Andy Jackson
-**Date:** Not specified in the transcript
+**Date:** August 5th, 2026
 **Duration:** Approximately 24 minutes
 
 ## 1. Agenda
